@@ -1,0 +1,15 @@
+{
+    "id": 14744,
+    "name": "lxc001.cluster.local",
+    "run_status": "false",
+    "autostart": "true",
+    "project_id": 428,
+    "cpu_count": 1,
+    "memory": 4,
+    "disk": 20,
+    "domain_name": "cluster.local",
+    "environment": "production",
+    "ip": "10.132.0.22/24",
+    "gw": "10.132.0.1",
+    "vm_type": "lxc"
+}
